@@ -11,15 +11,15 @@ body {
 .message.to[_ngcontent-c1] {
     background-color: #2095FE;
     color: #fff;
-    margin-left: 400px;
+    margin-left: 500px;
     text-align: right;
-    width: 35%;
+    width: 25%;
 }
 .message.from[_ngcontent-c1] {
     background-color: #E5E4E9;
     color: #363636;
-    margin-left: 300px;
-    width: 35%;
+    margin-left: 430px;
+    width: 25%;
 }
 .message.to + .message.to,
 .message.from + .message.from {
