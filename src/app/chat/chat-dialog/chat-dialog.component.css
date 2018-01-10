@@ -1,0 +1,70 @@
+.message {
+    border-radius: 50px;
+    margin: 0 15px 10px;
+    padding: 15px 20px;
+    position: relative;
+    font-weight: bold;
+}
+body {
+  font-family: 'PT Sans', sans-serif;
+}
+.message.to[_ngcontent-c1] {
+    background-color: #2095FE;
+    color: #fff;
+    margin-left: 400px;
+    text-align: right;
+    width: 35%;
+}
+.message.from[_ngcontent-c1] {
+    background-color: #E5E4E9;
+    color: #363636;
+    margin-left: 300px;
+    width: 35%;
+}
+.message.to + .message.to,
+.message.from + .message.from {
+margin-top: -10px;
+}
+mat-form-field[_ngcontent-c1] {
+    width: 300px;
+    margin-right: 5px;
+}
+.search{
+  height: 39px;
+  max-height: 70px;
+  font-size: 1.5em;
+  width: 50%;
+}
+
+h1 {
+     text-align: center;
+    font-size: 4.6rem;
+    line-height: 1.2;
+    color: #2095FE;
+    font-family: 'Roboto Slab', serif;
+}
+h4 {
+  text-align: center;
+  font-size: 2.2rem;
+  letter-spacing: -.08rem;
+  line-height: 1.35;
+ font-style: italic;
+ color: #000;
+ font-family: 'Roboto Slab', serif;
+}
+div.chat[_ngcontent-c1] {
+    margin-left: 400px;
+}
+div.container {
+  margin-top: 20px;
+}
+.searchButton{
+  background-color: #CA1740;
+  color: #fff;
+  margin-top:20px;
+}
+mat-card {
+  width: 95%;
+  margin: 10px auto;
+  min-height: 500px;
+}
