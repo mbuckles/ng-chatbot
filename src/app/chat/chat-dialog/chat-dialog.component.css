@@ -11,14 +11,14 @@ body {
 .message.to[_ngcontent-c1] {
     background-color: #2095FE;
     color: #fff;
-    margin-left: 500px;
+    margin-left: 375px;
     text-align: right;
     width: 25%;
 }
 .message.from[_ngcontent-c1] {
     background-color: #E5E4E9;
     color: #363636;
-    margin-left: 430px;
+    margin-left: 325px;
     width: 25%;
 }
 .message.to + .message.to,
@@ -53,7 +53,7 @@ h4 {
  font-family: 'Roboto Slab', serif;
 }
 div.chat[_ngcontent-c1] {
-    margin-left: 400px;
+    margin-left: 300px;
 }
 div.container {
   margin-top: 20px;
@@ -65,6 +65,6 @@ div.container {
 }
 mat-card {
   width: 95%;
-  margin: 10px auto;
+  margin: 0px auto;
   min-height: 500px;
 }

@@ -1,0 +1,33 @@
+.main-content{
+  padding-top: 50px;
+  background-color: transparent!important;
+}
+.header{
+  padding-bottom: 3px;
+  text-align: center;
+}
+.dialogflowLogo{
+  width: 200px;
+    background-color: transparent!important;
+}
+.logo{
+  padding-bottom: 24px;
+  text-align: center;
+  float:right;
+}
+#attribution{
+  color: #f0f0f0;
+  display: block;
+  padding-bottom: 8px;
+}
+chat-dialog {
+  margin-top: 10px;
+}
+#title{
+  color: #f0f0f0;
+display: inline-block;
+font-size: 3.6em;
+  font-family: 'Roboto Slab', serif;
+text-align: center;
+  padding-bottom: 0.5em;
+}
