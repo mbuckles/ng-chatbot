@@ -6,6 +6,7 @@ import 'rxjs/add/operator/scan';
 
 
 @Component({
+  // tslint:disable-next-line:component-selector
   selector: 'chat-dialog',
   templateUrl: './chat-dialog.component.html',
   styleUrls: ['./chat-dialog.component.css']

@@ -6,7 +6,7 @@ import { ChatModule } from './chat/chat.module';
 import { FormsModule } from '@angular/forms';
 import { MaterialModule } from './material.module';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
-import {ApiAiClient} from "api-ai-javascript";
+import {ApiAiClient} from 'api-ai-javascript';
 
 @NgModule({
   declarations: [
