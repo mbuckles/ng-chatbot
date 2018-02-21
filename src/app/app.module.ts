@@ -2,6 +2,8 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
+
+// added below
 import { ChatModule } from './chat/chat.module';
 import { FormsModule } from '@angular/forms';
 import { MaterialModule } from './material.module';
